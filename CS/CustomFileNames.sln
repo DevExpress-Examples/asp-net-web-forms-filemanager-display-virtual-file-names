@@ -3,25 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "customFileNames", ".", "{9B5052E6-D63E-4F19-B7B0-0DEA3B9128E0}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite", ".", "{9B5052E6-D63E-4F19-B7B0-0DEA3B9128E0}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_56956"
-		Debug.AspNetCompiler.PhysicalPath = "..\customFileNames\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56956\"
+		Debug.AspNetCompiler.VirtualPath = "/WebSite"
+		Debug.AspNetCompiler.PhysicalPath = "."
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_56956"
-		Release.AspNetCompiler.PhysicalPath = "..\customFileNames\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56956\"
+		Release.AspNetCompiler.VirtualPath = "/WebSite"
+		Release.AspNetCompiler.PhysicalPath = "."
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "56956"
-		SlnRelativePath = "..\customFileNames\"
 	EndProjectSection
 EndProject
 Global
