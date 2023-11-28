@@ -7,7 +7,7 @@
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/141351899/)**
 <!-- run online end -->
-This example demonstrates how to display virtual names for folders and files in the File Manager control. Users can access and manage folders and files by these virtual names.
+This example demonstrates how to display virtual names for folders and files in the [File Manager](https://docs.devexpress.com/AspNet/9032/components/file-management/file-manager) control. Users can access and manage folders and files by these virtual names.
 
 ![Display Virtual File Names](result.png)
 
